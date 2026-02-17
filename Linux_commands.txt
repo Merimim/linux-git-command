@@ -1,0 +1,22 @@
+LINUX COMMANDS:
+ls-list files and folders
+cd-change directory
+pwd-show currents directory path
+mkdir-create a new directory
+cp-copy files and folders
+mv-move or rename files
+rm-remove(delete) files or folders
+touch-create an empty file
+cat-show file content
+vi/vim-advenced text editor
+apt install-install a package
+
+
+PERMISSION SETTINGS:
+chmod-change filoe permissions
+suod (superuser do) -run command and administrator
+r(read)-read permission (can view file)
+w(write)-write permission (can edit file)
+x(execute)-execute permission (can run file)
+ 
+

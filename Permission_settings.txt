@@ -1,0 +1,16 @@
+BASIC GIT COMMANDS:
+git init-initialize a new Git repositary
+git clone <url>-copy a remote repositary to your computer
+git status-check current repository to your computer
+git add <file>-stage a file
+git add .-stage all changes
+git commit -m"message"-save changes with a message
+git log-show commit history
+git branch-list branches
+git branch <name>-create a new branch
+git merge-merge a branch into current branch
+git remote add origin <url>-add remote repository
+git push origin main (master)-upload changes to remote
+git pull-download & merge changes
+
+
